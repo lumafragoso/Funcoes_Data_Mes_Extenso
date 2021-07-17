@@ -13,13 +13,13 @@ Construa uma função que receba uma data no formato DD/MM/AAAA e devolva um tex
 1. O ano é divisível por 4, mas não é divisível por 100; ou
 2. Caso o ano termine com 00 (dois zeros), ele é divisivel por 400.
 
-1. Exemple / Exemplo
+1. Example / Exemplo
 ```py
 Data no formato DD/MM/AAAA? 29/02/2020
 Retorno da função: 
 29 de fevereiro de 2020
 ```
-2. Exemple / Exemplo
+2. Example / Exemplo
 ```py
 
 Data no formato DD/MM/AAAA? 31/11/2020
